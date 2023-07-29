@@ -1,1 +1,3 @@
-# Suicidal_Tendency_Detection
+# Suicidal Tendency Detection
+
+Mental health is an often neglected area in our lives, tragically many people end up suffering and taking their own lives just because they didn’t receive proper help at the right moment. This project proposes a solution that can hopefully provide help to those who are in dire need of it. We use Machine learning (NLP in particular) to identify if a particular individual is showing signs of a mental health crisis. If it identifies such a person with a high confidence, then the system alerts a mental health professional who can then quickly provide the much-needed help and guidance. This project is intended to make sure no other life is thrown away and to alleviate suffering.
